@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated AdhGen manuscript and this software record."
+title: "AdhGen: a genetic algorithm-based framework for biologically guided focal adhesion segmentation"
+type: software
+version: 1.1.0
+authors:
+  - family-names: Han
+    given-names: Yechan
+  - family-names: Kim
+    given-names: Taehwan
+  - family-names: Suh
+    given-names: Nayoung
+  - family-names: Kim
+    given-names: Jaeyun
+repository-code: "https://github.com/CNU-YcHan/AdhGen"
+doi: "10.5281/zenodo.22119870"
